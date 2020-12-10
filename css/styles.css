@@ -5,7 +5,7 @@ body {
     background-color: #eae7dc;
 }
 h1 {
-    color: #e85a4f;
+    color: white;
     padding: 10px;
     padding-bottom: 1px;
 }
@@ -50,7 +50,7 @@ h2 {
     line-height: 200%;
 }
 .topnav {
-    background-color: lightgray;
+    background-color: #575757;
     overflow: hidden;
 }
 .topnav a {
@@ -97,7 +97,7 @@ h2 {
     color: #e98074;
 }
 header, footer {
-    background-color: #d8c3a5;
+    background-color: #575757;
 }
 .column1, .column2 {
     float: left;
