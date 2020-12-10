@@ -81,12 +81,11 @@ h2 {
     margin-left: 5px;
     margin-bottom: 10px;
     text-align: center;
-    color: white;
     padding: 10px;
 }
 .linkp a {
     text-decoration: none;
-    color: white;
+    color: black;
     font-size: large;
     line-height: 204%;
 }
@@ -104,10 +103,10 @@ header, footer {
     width: 50%;
 }
 .column1 {
-    background-color: gray;
+    background-color: #969696;
 }
 .column2 {
-    background-color: #8e8d8a;
+    background-color: #ABABAB;
 }
 .row:after {
     content: "";
