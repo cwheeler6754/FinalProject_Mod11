@@ -4,7 +4,12 @@ body {
     margin-left: 180px;
     background-color: #eae7dc;
 }
-h1 {
+.linkp a:focus, .topnav a:focus {
+    border: #e85a4f solid 2px;
+    background-color: #eae7dc;
+    color: black;
+}
+h1, .skip {
     color: white;
     padding: 10px;
     padding-bottom: 1px;
