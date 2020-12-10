@@ -84,7 +84,7 @@ h2 {
     padding: 10px;
 }
 .linkp a {
-    text-decoration: none;
+    text-decoration: underline solid white;
     color: black;
     font-size: large;
     line-height: 204%;
